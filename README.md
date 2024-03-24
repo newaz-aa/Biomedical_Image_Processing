@@ -4,5 +4,5 @@ This repo contains manuals for biomedical image processing using MATLAB. This in
 
 1. Image enhancement - contrast adjustment, gamma correction, histogram equalization, brightening or sharpening image.
 2. Adding noise to image - Gaussian noise, Poisson noise, Salt and Pepper noise
-3. Image Filtering - spacial filtering - Low pass filter, high pass filter, median filter, wiener filter
+3. Image Filtering - spatial filtering - Low pass filter, high pass filter, median filter, wiener filter
 4. Edge detection - Canny, Sobel, and LoG edge detection methods
